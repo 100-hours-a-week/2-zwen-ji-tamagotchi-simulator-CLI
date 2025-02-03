@@ -23,8 +23,8 @@ java src/Main.java
 ```
 
 ## Author
-Created by: Zwen
-Contact: jijohn.vega@gmail.com
+- Created by: Zwen
+- Contact: jijohn.vega@gmail.com
 
 ### Special Thanks
 **shaun_i3i** for helping dotted-art selection
