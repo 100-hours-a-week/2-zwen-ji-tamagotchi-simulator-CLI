@@ -27,4 +27,4 @@ Created by: Zwen
 Contact: jijohn.vega@gmail.com
 
 ## Special Thanks
-shaun_i3i for helping dotted-art selection
+**shaun_i3i** for helping dotted-art selection
