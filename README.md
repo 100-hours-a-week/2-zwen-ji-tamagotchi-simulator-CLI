@@ -26,5 +26,5 @@ java src/Main.java
 Created by: Zwen
 Contact: jijohn.vega@gmail.com
 
-## Special Thanks
+### Special Thanks
 **shaun_i3i** for helping dotted-art selection
